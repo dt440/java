@@ -1,3 +1,5 @@
+package JLine.src;
+
 import java.util.Scanner;
 
 class JLine {

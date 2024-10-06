@@ -1,3 +1,5 @@
+package 家具类.src;
+
 import java.util.Scanner;
 
 public class Main {

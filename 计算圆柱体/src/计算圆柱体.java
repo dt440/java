@@ -1,5 +1,7 @@
+package 计算圆柱体.src;
+
 import java.util.Scanner;
-public class Main {
+public class 计算圆柱体 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         double r=scanner.nextDouble();
