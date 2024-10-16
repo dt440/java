@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="927b85ec-5a36-4aa8-b0c3-3ef4bbb329ed" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JAVA - GitHub.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JAVA - GitHub.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JLine/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JLine/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/家具类/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/家具类/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/求圆面积/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/求圆面积/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/计算圆柱体/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/计算圆柱体/src/计算圆柱体.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA - GitHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA - GitHub/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,19 +43,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/java",
-    "应用程序.Main.executor": "Run",
-    "应用程序.main.executor": "Run",
-    "应用程序.计算圆柱体.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.main.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.计算圆柱体.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="应用程序.计算圆柱体">
     <configuration name="计算圆柱体" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="计算圆柱体.src.计算圆柱体" />
